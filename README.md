@@ -15,9 +15,9 @@ constant when a “flip” or “rotate by 90 degrees clockwise” transformatio
 to the images, with the text question and answer remaining the same.
 <br>
 
-**MATHVISTA**: [https://huggingface.co/datasets/AI4Math/MathVista]
+**MATHVISTA**: (https://huggingface.co/datasets/AI4Math/MathVista)
 <br>
 
-**MATH-V**: [https://huggingface.co/datasets/MathLLMs/MathVision]
+**MATH-V**: (https://huggingface.co/datasets/MathLLMs/MathVision)
 
 
