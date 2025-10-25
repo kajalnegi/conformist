@@ -8,9 +8,9 @@ angles. It comes in a horizontal and vertical pair with exact same text question
 answer. 
 <br>
 
-A subsets from **MathVista** and **MATH-V**.
+A subsets from **MathVista** and **MATH-V** was also used in analysis.
 <br>
-These datasets are manually verified to ensure the question’s equivalence remains
+These datasets are manually verified to ensure the question’s equivalence(mathematically) remains
 constant when a “flip” or “rotate by 90 degrees clockwise” transformation is applied
 to the images, with the text question and answer remaining the same.
 <br>
